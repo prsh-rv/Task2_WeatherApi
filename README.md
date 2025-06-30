@@ -44,14 +44,13 @@ Description: clear sky
 ````
 ---
 
-
 📁 Files Included
 
 WeatherApp.java – Java code
 json-20240303.jar – JSON parsing library
 screenshot.png – Output preview 
 README.md – This file
----
+
 
 
    
