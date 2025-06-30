@@ -8,7 +8,7 @@ import org.json.JSONObject;
 public class WeatherApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String API_KEY = "ad99371c66ad64b9207a3b76fd3b23c5";
+        String API_KEY = "Add your api key"; // i removed my api key after testing the code 
 
         System.out.print("Enter city name: ");
         String city = scanner.nextLine();
