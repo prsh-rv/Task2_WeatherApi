@@ -1,3 +1,26 @@
+#### 🏢 Internship Details
+
+- **COMPANY**: CODTECH IT SOLUTIONS PVT. LTD  
+- **NAME**: RAGHAV PARASHAR  
+- **INTERN ID**: CT04DN144  
+- **DOMAIN**: JAVA PROGRAMMING  
+- **DURATION**: 4 WEEKS (FROM JUNE 10TH, 2025 TO JULY 10TH, 2025)  
+- **MENTOR**: NEELA SANTOSH  
+
+🛠️ This project was developed as part of my internship task.
+
+### 📌 Instructions (Task 2: Weather API Client)
+
+- Develop a Java console application that:
+  - Accepts a city name as input
+  - Connects to the OpenWeatherMap API
+  - Fetches and displays current weather data (temperature, humidity, description)
+- Use `HttpURLConnection` for API access
+- Use JSON parsing to extract and display the data
+- Handle API key and errors properly
+
+---
+
 # Task 2 - Java Weather API Client
 
 ## 🌦 Description
